@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav ul li {
+    width: 10%;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+section img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+
+}
+
+.section-class {
+    display: flex;
+    align-items: center;
+}
+
+.section-class {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+.section-class-proyectos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.proyectos-card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+}
+.card img {
+    max-width: 200px;
+    border-radius: 100px;
+}
+
+
+
+
+/* MEDIAQUIERIES */
+@media screen and (max-width: 768px) {
+    .section-class {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section-class img {
+        max-width: 300px;
+    }
+
+    nav ul li {
+        max-width: 0 auto;
+    }
+
+    nav ul li {
+        width: 20%;
+    }
+
+    .proyectos-card {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+}
