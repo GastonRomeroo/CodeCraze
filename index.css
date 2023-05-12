@@ -121,6 +121,38 @@ ul {
 }
 
 
+/* ### RENDER INDEX.JS ###*/
+
+.card-dev {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.picture-dev {
+    width: 100px;
+}
+
+.info-dev {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.img-dev {
+    width: 100px;
+    border-radius: 50px;
+}
+
+
 
 
 /* MEDIAQUIERIES */

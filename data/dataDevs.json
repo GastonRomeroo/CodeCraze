@@ -1,0 +1,43 @@
+
+[
+
+    {
+    "id": "1",    
+    "name": "Nicolás Dondo", 
+    "title": "Front-End React.js and Tester Qa", 
+    "hability": "hability 1", 
+    "img":"image/person/nico.jpg",
+    "skills": "dev FrontEnd-Tester QA"},
+
+    {
+    "id": "2",    
+    "name": "Iván Maidana", 
+    "title": "Todos", 
+    "hability": "Todas", 
+    "img":"image/person/ivan.jpg",
+    "skills": "Todas"},
+
+    {
+    "id": "3",    
+    "name": "David Palazzi", 
+    "title": "FrontEnd Dev React.js", 
+    "hability": "hability 2", 
+    "img":"image/person/david.jpg",
+    "skills": "FullStack stuent"},
+
+    {
+    "id": "4",    
+    "name": "Gastón Romero", 
+    "title": "Front-end and Tester QA", 
+    "hability": "hability 3", 
+    "img":"image/person/gaston.jpg",
+    "skills": "dev FrontEnd-Tester QA"},
+
+    {
+    "id": "5",    
+    "name": "Matías Rodriguez", 
+    "title": "Front-End React.js", 
+    "hability": "hability 4", 
+    "img":"image/person/mati.jpg",
+    "skills": "FullStack stuent"}
+]
