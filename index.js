@@ -35,6 +35,6 @@ function renderDevs(devs) {
         </div>`
             
     contenedor.appendChild(div);
-    
+    dataJson();
     });
 }
