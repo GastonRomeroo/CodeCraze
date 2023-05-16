@@ -4,6 +4,7 @@
     {
     "id": "1",    
     "name": "Nicolás Dondo", 
+    "alias":"Nicolás",
     "title": "Front-End React.js and Tester Qa", 
     "hability": "hability 1", 
     "img":"image/person/nico.jpg",
@@ -12,6 +13,7 @@
     {
     "id": "2",    
     "name": "Iván Maidana", 
+    "alias":"Iván",
     "title": "Todos", 
     "hability": "Todas", 
     "img":"image/person/ivan.jpg",
@@ -20,6 +22,7 @@
     {
     "id": "3",    
     "name": "David Palazzi", 
+    "alias":"David",
     "title": "FrontEnd Dev React.js", 
     "hability": "hability 2", 
     "img":"image/person/david.jpg",
@@ -28,6 +31,7 @@
     {
     "id": "4",    
     "name": "Gastón Romero", 
+    "alias":"Gastón",
     "title": "Front-end and Tester QA", 
     "hability": "hability 3", 
     "img":"image/person/gaston.jpg",
@@ -36,6 +40,7 @@
     {
     "id": "5",    
     "name": "Matías Rodriguez", 
+    "alias":"Matías",
     "title": "Front-End React.js", 
     "hability": "hability 4", 
     "img":"image/person/mati.jpg",
