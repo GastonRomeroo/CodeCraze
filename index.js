@@ -1,3 +1,4 @@
+document.cookie = "cookieName=cookieValue; SameSite=None; Secure"; 
 
 
 let contenedor = document.getElementById("main-container");
